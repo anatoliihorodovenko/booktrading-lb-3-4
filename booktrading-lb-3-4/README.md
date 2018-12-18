@@ -1,2 +1,2 @@
-# jade-booktrading-lb2
-JADE Agents (wumpus world). Lb2, Vlad Voloshyn
+# jade-booktrading-lb3-4
+JADE Agents (wumpus world). Lb3-4, Anatolii Horodovenko
